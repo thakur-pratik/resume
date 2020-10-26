@@ -1,8 +1,18 @@
 [
+     {"title":"Python", "value":"75"},
+     {"title":"Scikit-learn", "value":"80"},
+     {"title":"NumPy", "value":"80"},
+     {"title":"Pandas", "value":"90"},
+     {"title":"Matplotlib", "value":"70"},
+     {"title":"SeaBorn", "value":"85"},
+     {"title":"MySQL", "value":"70"},
+     {"title":"Tableau", "value":"90"},
+     {"title":"Flask", "value":"60"},
+     {"title":"statsmodels", "value":"60"},
      {"title":"Angular", "value":"60"},
      {"title":"Ionic", "value":"40"},
      {"title":"HTML", "value":"75"},
      {"title":"CSS", "value":"70"},
-     {"title":"Bootstrap", "value":"90"},
-     {"title":"Javascript,", "value":"40"}
+     {"title":"Bootstrap", "value":"50"},
+     {"title":"Javascript","value":"50"}
    ]
